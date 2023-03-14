@@ -152,18 +152,6 @@ input{
     padding: 10px;
 }
 
-.img img{
-    height: 25px;
-    width: 25px;
-    float: inline-start;
-    align-self: center;
-}
-
-.end{
-    padding-top: 30px;
-    text-align: left;
-    width: max-content;
-}
 
 footer {
 	background-color: #6f4e37;
@@ -191,23 +179,3 @@ footer > p {
 	color: silver;
 }
 
-.nav_img ul{
-    list-style-type: none;
-}
-
-.nav_img ul li{
-    display: inline-flexbox;
-}
-
-.nav_img ul li a{
-    text-decoration: none;
-    color: #fff;
-    padding: 5px 0px;
-    border: 1px solid transparent;
-    transition: 0.6s ease;
-}
-
-.nav_img ul li a:hover{
-    background-color: #fff;
-    color: #000;
-}
