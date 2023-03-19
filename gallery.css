@@ -61,8 +61,7 @@ ul li.active a{
 
 .grids{
   display: flex;
-  background-color: rgb(155, 168, 180);;
-  width: 20%;
+  background-color: rgb(155, 168, 180);
   justify-content: space-around;
   margin: 30px;
   float: left;
@@ -118,7 +117,7 @@ ul li.active a{
 }
 
   footer {
-    background-color: #6f4e37;
+    background-color: #E7E7E7;
     padding: 1em;
     text-align: center;
       width: 100%;
@@ -129,17 +128,17 @@ ul li.active a{
   }
   
   footer > span {
-    color: silver;
+    color: black;
   }
   
   footer > a {
-    color: beige;
+    color: black;
     text-decoration: none;
     padding: 0 15px;
     font-size: 0.8rem;
   }
   
   footer > p {
-    color: silver;
+    color: black;
   }
   
