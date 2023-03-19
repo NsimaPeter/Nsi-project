@@ -110,12 +110,6 @@ ul li.active a{
   left: 0;
 }
 
-.ground img{
-  height: 25px;
-  width: 25px;
-  float: inline-end;
-}
-
   footer {
     background-color: #E7E7E7;
     padding: 1em;
